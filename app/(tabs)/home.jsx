@@ -62,7 +62,7 @@ const Home = () => {
                     Welcome Back
                   </Text>
                   <Text className="text-2xl font-psemibold text-white">
-                    JSMastery
+                    Ahmed Mansour
                   </Text>
                 </View>
 
@@ -75,7 +75,7 @@ const Home = () => {
                 </View>
               </View>
 
-              <SearchInput otherStyles={"m-0"} />
+              <SearchInput placeholder="Search" otherStyles={"m-0"} />
 
               <View className="w-full flex-1 pt-5 pb-8">
                 <Text className="text-lg font-pregular text-gray-100 mb-3">
